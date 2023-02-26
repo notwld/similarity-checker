@@ -8,9 +8,9 @@ This Python script is designed to compare the text content of two PDF files and 
 
 # Usage
 1. Place the two PDF files that you want to compare in the same directory as the Python script.
-2. Name the PDFs as `1.pdf` and `2.pds`
+2. Name the PDFs as `1.pdf` and `2.pdf`
 3. Open a terminal window and navigate to the directory containing the script and PDF files.
-4. Run the script using the following command: `python pdf_similarity_checker.py`
+4. Run the script using the following command: `python main.py`
 5. The script will output the Jaccard similarity index as a percentage.
 
 # Notes
